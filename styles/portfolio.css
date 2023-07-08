@@ -72,5 +72,72 @@ nav a {
 }
 .banner-content{
     max-width: 585px;
+}
+.banner-description{
     margin-bottom:30px;
+    max-width: 585px;
+}
+.about{
+padding: 130px;
+margin-top: 130px;
+margin-bottom: 130px;
+background-color: #FFF8F3;
+
+}
+.section-title{
+text-align:center;
+margin-bottom:30px;
+color: #181818;
+font-size: 35px;
+font-weight: 700;
+}
+.section-description{
+margin-bottom:30px;
+color: #757575;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+main{
+    max-width:1140px;
+    margin:0 auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    color: #757575;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 10px;
+}
+.info-title{
+
+}
+.info-description{
+
+}
+.skill-container{
+    display: flex;
+    justify-content: space-between;
+}
+.skill{
+    border-radius: 5px;
+    background: #FFF;
+    width:250px
+}
+.skill-title{
+    color: #181818;
+    font-size: 20px;
+    font-weight: 700;
+ 
+}
+.skill-desc{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
 }
